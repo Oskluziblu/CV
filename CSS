@@ -1,0 +1,169 @@
+body {
+    background: #e4f2f8;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px;
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+
+.cv-foto {
+    margin-top: 25px;
+    margin-left: 38px;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 200px;
+    height: 230px;
+}
+
+.h2 {
+    color: #ffffff;
+}
+
+.kontakts {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 400;
+}
+
+.list2 {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list2item {
+    color: #ffffff;
+}
+
+.kontaktblok {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.techblok {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.softblok {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-right: 88px;
+    padding-bottom: 102px;
+}
+
+.main-description {
+    width: 400px;
+}
+
+.job-description {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+}
+
+.projekty {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list1 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list1item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+
+.header1 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+.jobname {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.data {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.joblist {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list3item {
+    color: #ffffff;
+    list-style-position: inside;
+    margin-right: 45px;
+}
+
+.kontakts2 {
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
